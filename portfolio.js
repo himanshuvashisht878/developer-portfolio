@@ -96,8 +96,7 @@ export const SkillBars = [
 		Stack: "TFrontend",
 		progressPercentage: "65",
 	},
-];
-];
+
 ];
 
 export const educationInfo = [
