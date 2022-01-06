@@ -80,18 +80,32 @@ const Navigation = () => {
 							<Nav
 								className="align-items-lg-center ml-lg-auto"
 								navbar
-							>
+							> 
 								<NavItem>
 									<NavLink
 										rel="noopener"
-										aria-label="Facebook"
+										aria-label="Github"
 										className="nav-link-icon"
-										href={socialLinks.facebook}
+										href={socialLinks.github}
 										target="_blank"
 									>
-										<i className="fa fa-facebook-square" />
+										<i className="fa fa-github" />
 										<span className="nav-link-inner--text d-lg-none ml-2">
-											Facebook
+											Github
+										</span>
+									</NavLink>
+								</NavItem>
+								<NavItem>
+									<NavLink
+										rel="noopener"
+										aria-label="Linkedin"
+										className="nav-link-icon"
+										href={socialLinks.linkedin}
+										target="_blank"
+									>
+										<i className="fa fa-linkedin" />
+										<span className="nav-link-inner--text d-lg-none ml-2">
+											Linkedin
 										</span>
 									</NavLink>
 								</NavItem>
@@ -123,34 +137,7 @@ const Navigation = () => {
 										</span>
 									</NavLink>
 								</NavItem>
-								<NavItem>
-									<NavLink
-										rel="noopener"
-										aria-label="Github"
-										className="nav-link-icon"
-										href={socialLinks.github}
-										target="_blank"
-									>
-										<i className="fa fa-github" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Github
-										</span>
-									</NavLink>
-								</NavItem>
-								<NavItem>
-									<NavLink
-										rel="noopener"
-										aria-label="Linkedin"
-										className="nav-link-icon"
-										href={socialLinks.linkedin}
-										target="_blank"
-									>
-										<i className="fa fa-linkedin" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Linkedin
-										</span>
-									</NavLink>
-								</NavItem>
+								
 							</Nav>
 						</UncontrolledCollapse>
 					</Container>
