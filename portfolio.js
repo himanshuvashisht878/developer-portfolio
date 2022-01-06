@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Himanshu",
 	description:
 		"A passionate Data Analyst, having an experience of  Python, DBMS, SQL, Excel,Tableau and Stats.",
-	resumeLink: "https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing",target="_blank",rel="noopener noreferrer",
+	resumeLink: "https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing",
 };
 
 export const openSource = {
