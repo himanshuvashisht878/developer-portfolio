@@ -4,28 +4,28 @@ export const greetings = {
 	name: "Himanshu Vashisht",
 	title: "Hi all, I'm Himanshu",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+		"A passionate Data Analyst, having an experience of  Python , DBMS , SQL , Excel ,Tableau and Stats.",
+	resumeLink: "",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "himanshuvashisht878",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	
+	instagram: "https://www.instagram.com/ihimanshuvashisht/",
+	twitter: "https://twitter.com/Himansh18420367",
+	github: "https://github.com/himanshuvashisht878",
+	linkedin: "https://www.linkedin.com/in/himanshu-vashisht-887071172/",
 };
 
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"CRAZY DATA ANALYST WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
 		emoji(
 			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -33,12 +33,17 @@ export const skillsSection = {
 		emoji(
 			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
 		),
-		emoji(
-			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-		),
 	],
 
 	softwareSkills: [
+		{
+			skillName: "python",
+			fontAwesomeClassname: "logos:python",
+		},
+		{
+			skillName: "sql-database",
+			fontAwesomeClassname: "vscode-icons:file-type-sql",
+		},
 		{
 			skillName: "html-5",
 			fontAwesomeClassname: "vscode-icons:file-type-html",
@@ -47,114 +52,76 @@ export const skillsSection = {
 			skillName: "css3",
 			fontAwesomeClassname: "vscode-icons:file-type-css",
 		},
-		{
-			skillName: "sass",
-			fontAwesomeClassname: "logos:sass",
-		},
+		
 		{
 			skillName: "JavaScript",
 			fontAwesomeClassname: "logos:javascript",
 		},
-		{
-			skillName: "TypeScript",
-			fontAwesomeClassname: "logos:typescript-icon",
-		},
-		{
-			skillName: "reactjs",
-			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
-		},
-		{
-			skillName: "nodejs",
-			fontAwesomeClassname: "logos:nodejs-icon",
-		},
-		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
-		},
-		{
-			skillName: "npm",
-			fontAwesomeClassname: "vscode-icons:file-type-npm",
-		},
-		{
-			skillName: "sql-database",
-			fontAwesomeClassname: "vscode-icons:file-type-sql",
-		},
+		
+		
 		{
 			skillName: "mongoDB",
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
 		{
-			skillName: "aws",
+			skillName: "AWS",
 			fontAwesomeClassname: "logos:aws",
 		},
 		{
-			skillName: "firebase",
+			skillName: "Tableau",
 			fontAwesomeClassname: "logos:firebase",
 		},
-		{
-			skillName: "python",
-			fontAwesomeClassname: "logos:python",
-		},
-		{
-			skillName: "git",
-			fontAwesomeClassname: "logos:git-icon",
-		},
-		{
-			skillName: "docker",
-			fontAwesomeClassname: "logos:docker-icon",
-		},
+		
 	],
 };
 
 export const SkillBars = [
 	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
+		Stack: "Python", //Insert stack or technology you have experience in
 		progressPercentage: "90", //Insert relative proficiency in percentage
 	},
 	{
-		Stack: "Backend",
-		progressPercentage: "70",
+		Stack: "SQL",
+		progressPercentage: "80",
 	},
 	{
-		Stack: "Programming",
+		Stack: "Tableau",
 		progressPercentage: "60",
 	},
+	{
+		Stack: "Excel",
+		progressPercentage: "75",
+	},
+	{
+		Stack: "TFrontend",
+		progressPercentage: "65",
+	},
+];
+];
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Benett University",
+		subHeader: "B-Tech in Electronics and Communication Engineering",
+		duration: "August 2018 - July 2022",
+		desc: "CGPA - 7.6",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Top 5 in North region - Capgemini Tech challenge - 2021",
+			"Top 3 in Smart India Hackathon - 2020 (College Level)",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "S.D Vidya School",
+		subHeader: "12th - Science",
+		duration: "May 2016 - June 2017",
+		desc: "Percentage - 73.5",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Active in sports - Basketball,Badminton",
+			"Participated in school fest - Science and Technology",
 		],
 	},
-	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
-		],
-	},
+	
 ];
 
 export const experience = [
@@ -169,25 +136,13 @@ export const experience = [
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
-	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: "/img/icons/common/github.svg",
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-	},
-	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
-		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-	},
+	
+	
 ];
 
 export const projects = [
 	{
-		name: "lorem ipsum",
+		name: "Time machine",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		link: "https://example.com",
 	},
@@ -206,13 +161,13 @@ export const projects = [
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		name: "Elon musk",
 		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+			"Very hard working and dedicated person. He is very good at what he does. I recommend him for any job.",
 	},
 	{
-		name: "Maheen Altaf",
+		name: "Sundar Pichai",
 		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+			"Need to work hard and keep up the good work. He is a good person and I wish him good luck in all his future endeavors.",
 	},
 ];
