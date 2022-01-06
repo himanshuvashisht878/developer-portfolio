@@ -4,8 +4,8 @@ export const greetings = {
 	name: "Himanshu Vashisht",
 	title: "Hi all, I'm Himanshu",
 	description:
-		"A passionate Data Analyst, having an experience of  Python , DBMS , SQL , Excel ,Tableau and Stats.",
-	resumeLink: "https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing" target="_blank" rel="noopener noreferrer",
+		"A passionate Data Analyst, having an experience of  Python, DBMS, SQL, Excel,Tableau and Stats.",
+	resumeLink: "https://drive.google.com/file/d/13-3aOYP-8TDulcwprh33e59_XWFKkhyO/view?usp=sharing",target="_blank",rel="noopener noreferrer",
 };
 
 export const openSource = {
@@ -93,7 +93,7 @@ export const SkillBars = [
 		progressPercentage: "75",
 	},
 	{
-		Stack: "TFrontend",
+		Stack: "Frontend",
 		progressPercentage: "65",
 	},
 
@@ -104,7 +104,7 @@ export const educationInfo = [
 		schoolName: "Benett University",
 		subHeader: "B-Tech in Electronics and Communication Engineering",
 		duration: "August 2018 - July 2022",
-		desc: "CGPA - 7.6",
+		desc: "CGPA - 8.1",
 		descBullets: [
 			"Top 5 in North region - Capgemini Tech challenge - 2021",
 			"Top 3 in Smart India Hackathon - 2020 (College Level)",
@@ -117,7 +117,7 @@ export const educationInfo = [
 		desc: "Percentage - 73.5",
 		descBullets: [
 			"Active in sports - Basketball,Badminton",
-			"Participated in school fest - Science and Technology",
+			
 		],
 	},
 	
