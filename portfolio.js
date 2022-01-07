@@ -149,7 +149,7 @@ export const experience = [
 	{
 		role: "Cybersecurity Virtual Internship Program",
 		company: "CISCO",
-		companylogo: "img/icons/common/cisco_logo.jpg",
+		companylogo: "img/icons/common/cisco_logo-modified.png",
 		date: "May 2021 – July 2021",
 		desc: "Cisco Networking Academy offers the Virtual Internship Program to third-year engineering students to bridge the gap between industry and academia.",
 		descBullets: [
