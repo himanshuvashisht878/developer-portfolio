@@ -127,7 +127,7 @@ export const experience = [
 	{
 		role: "Summer Internship",
 		company: "Bennett University",
-		companylogo: "/img/icons/bennett_logo.jpeg",
+		companylogo: "/img/icons/bennett_logo.png",
 		date: "June 2020 – July 2020",
 		desc: "Smart hand sanitizer that not only detect hand but also detect if there is need to refill sanitizer.",
 		descBullets: [
