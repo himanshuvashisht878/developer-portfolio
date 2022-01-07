@@ -179,13 +179,13 @@ export const projects = [
 
 export const feedbacks = [
 	{
-		name: "Elon musk",
+		name: "Capgemini Tech challenge - 2021",
 		feedback:
-			"Very hard working and dedicated person. He is very good at what he does. I recommend him for any job.",
+			"Got in Top 5 in North region and was awarded cash prize of 35K",
 	},
 	{
-		name: "Sundar Pichai",
+		name: "Smart India Hackathon (SIH) - 2020",
 		feedback:
-			"Need to work hard and keep up the good work. He is a good person and I wish him good luck in all his future endeavors.",
+			"Top 3 team at college level",
 	},
 ];
