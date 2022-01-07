@@ -112,7 +112,7 @@ export const educationInfo = [
 	},
 	{
 		schoolName: "S.D Vidya School",
-		subHeader: "12th - Science",
+		subHeader: "12th - Science - CBSE",
 		duration: "May 2016 - June 2017",
 		desc: "Percentage - 73.5",
 		descBullets: [
@@ -125,14 +125,25 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "Google",
-		companylogo: "/img/icons/common/google.svg",
-		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Summer Internship",
+		company: "Bennett University",
+		companylogo: "/img/icons/bennett_logo.jpeg",
+		date: "June 2020 – July 2020",
+		desc: "Smart hand sanitizer that not only detect hand but also detect if there is need to refill sanitizer.",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Just place your hand near the bottle. the bottle will automatically trigger.",
+			"Cheap alternative",
+		],
+	},
+	{
+		role: "Cybersecurity Internship",
+		company: "Gurugram Police",
+		companylogo: "img/icons/common/police_logo.png",
+		date: "June 2021 – July 2021",
+		desc: "It is a great opportunity for the cybersecurity enthusiasts. It is directed by Rakshit tondon sir.",
+		descBullets: [
+			"Learnt about Cloud Security, Cryptocurrency Investigation,Cyber forensics, VAPT",
+			"I got theoretical as well as practical knowledge.",
 		],
 	},
 	
@@ -141,21 +152,18 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Time machine",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "Onyx V1.0 Motherboard",
+		desc: "The Arduino UNO + CNC shield has been the go-to setup for several CNC machines, robotic arms, drawing machines and what not! It's about time we replace the 8-bit microcontroller, with a powerful 32-bit, Wifi + BLE enabled ESP32!",
+		link: "https://curiousmotor.com/2021/12/27/designing-the-onyx-v1-0-motherboard/",
+		github: "https://github.com/CuriousMotor/Onyx-Stepper-Motherboard",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/himanshuvashisht878",
+		link: "",
 	},
-	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/himanshuvashisht878",
-		link: "https://example.com",
-	},
+	
 ];
 
 export const feedbacks = [
