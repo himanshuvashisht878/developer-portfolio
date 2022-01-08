@@ -74,11 +74,23 @@ export const skillsSection = {
 		},
 		{
 			skillName: "AWS",
-			fontAwesomeClassname: "logos:aws",
+			fontAwesomeClassname: "logos:google-cloud",
 		},
 		{
 			skillName: "Tableau",
 			fontAwesomeClassname: "logos:tableau",
+		},
+		{
+			skillName: "Matlab",
+			fontAwesomeClassname: "vscode-icons:file-type-matlab",
+		},
+		{
+			skillName: "Excel",
+			fontAwesomeClassname: "vscode-icons:file-type-excel",
+		},
+		{
+			skillName: "Heroku",
+			fontAwesomeClassname: "icons:heroku",
 		},
 		
 	],
