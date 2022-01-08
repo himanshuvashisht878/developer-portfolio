@@ -28,19 +28,19 @@ export const skillsSection = {
 		"CRAZY DATA ANALYST WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
 		emoji(
-			"⚡ Identify.bold() the data you want to analyze"
+			"⚡ Identify the data you want to analyze"
 		),
 		emoji(
-			"⚡ Collect.bold() the data"
+			"⚡ Collect the data"
 		),
 		emoji(
-			"⚡ Clean.bold() the data in preparation for analysis"
+			"⚡ Clean the data in preparation for analysis"
 		),
 		emoji(
-			"⚡ Analyze.bold() the data"
+			"⚡ Analyze the data"
 		),
 		emoji(
-			"⚡ Interpret.bold() the results of the analysis"
+			"⚡ Interpret the results of the analysis"
 		),
 	],
 
@@ -78,7 +78,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: "Tableau",
-			fontAwesomeClassname: "logos:firebase",
+			fontAwesomeClassname: "logos:tableau",
 		},
 		
 	],
