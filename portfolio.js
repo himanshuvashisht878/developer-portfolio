@@ -28,10 +28,19 @@ export const skillsSection = {
 		"CRAZY DATA ANALYST WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+			"⚡ Identify.bold() the data you want to analyze"
 		),
 		emoji(
-			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+			"⚡ Collect.bold() the data"
+		),
+		emoji(
+			"⚡ Clean.bold() the data in preparation for analysis"
+		),
+		emoji(
+			"⚡ Analyze.bold() the data"
+		),
+		emoji(
+			"⚡ Interpret.bold() the results of the analysis"
 		),
 	],
 
