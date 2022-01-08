@@ -36,7 +36,9 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Education\
 ✔️ Work Experience\
 ✔️ Projects\
-✔️ Github Profile
+✔️ Github Profile\
+- Achivements
+
 
 ## Getting Started
 
