@@ -92,6 +92,10 @@ export const skillsSection = {
 			skillName: "Heroku",
 			fontAwesomeClassname: "logos:heroku",
 		},
+		{
+			skillName: "Selenium",
+			fontAwesomeClassname: "logos:selenium",
+		},
 		
 	],
 };
