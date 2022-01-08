@@ -120,6 +120,16 @@ export const educationInfo = [
 			
 		],
 	},
+	{
+		schoolName: "S.D Vidya School",
+		subHeader: "10th - CBSE",
+		duration: "May 2014 - June 2015",
+		desc: "CGPA - 8.8",
+		descBullets: [
+			"Participated in school fest - Science and Technology",
+			
+		],
+	},
 	
 ];
 
@@ -168,12 +178,7 @@ export const projects = [
 		link: "https://curiousmotor.com/2021/12/27/designing-the-onyx-v1-0-motherboard/",
 		github: "https://github.com/CuriousMotor/Onyx-Stepper-Motherboard",
 	},
-	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/himanshuvashisht878",
-		link: "",
-	},
+	
 	
 ];
 
