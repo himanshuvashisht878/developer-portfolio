@@ -28,7 +28,7 @@ export const skillsSection = {
 		"CRAZY DATA ANALYST WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
 		emoji(
-			"⚡ Identify the data you want to analyze"
+			"⚡ Identify the data want to analyze"
 		),
 		emoji(
 			"⚡ Collect the data"

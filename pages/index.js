@@ -21,9 +21,9 @@ export default function Home({ githubProfileData }) {
 				data={{
 					title: "Himanshu Vashisht",
 					description:
-						"A passionate Data Analyst.",
+						"A passionate Data Analyst, exploring new technologies.",
 					image: "https://avatars.githubusercontent.com/u/65850648?v=4",
-					url: "https://itshimanshu.netlify.app/",
+					url: "itshimanshu.tech",
 					keywords: [
 						"Himanshu Vashisht",
 						"Himanshu",
@@ -31,7 +31,11 @@ export default function Home({ githubProfileData }) {
 						"Portfolio",
 						"Himanshu Portfolio ",
 						"Himanshu Vashisht Portfolio",
-						"python",
+						"Himanshu Vashisht Bennett University",
+						"Himanshu Vashisht Bennett",
+						"Bennett University",
+						"Himanshu Vashisht Data Analyst",
+						"Data Analyst Portfloio",
 					],
 				}}
 			/>
