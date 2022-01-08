@@ -78,7 +78,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: "Tableau",
-			fontAwesomeClassname: "logos:tableau",
+			fontAwesomeClassname: "vscode-icons:file-type-tableau",
 		},
 		{
 			skillName: "Matlab",
