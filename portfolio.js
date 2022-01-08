@@ -117,19 +117,11 @@ export const educationInfo = [
 		desc: "Percentage - 73.5",
 		descBullets: [
 			"Active in sports - Basketball,Badminton",
-			
-		],
-	},
-	{
-		schoolName: "S.D Vidya School",
-		subHeader: "10th - CBSE",
-		duration: "May 2014 - June 2015",
-		desc: "CGPA - 8.8",
-		descBullets: [
 			"Participated in school fest - Science and Technology",
 			
 		],
 	},
+	
 	
 ];
 
