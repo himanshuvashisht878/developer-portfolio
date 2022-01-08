@@ -90,7 +90,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: "Heroku",
-			fontAwesomeClassname: "icon:heroku",
+			fontAwesomeClassname: "logos:heroku",
 		},
 		
 	],
