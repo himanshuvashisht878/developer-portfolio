@@ -73,7 +73,7 @@ export const skillsSection = {
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
 		{
-			skillName: "AWS",
+			skillName: "GCP",
 			fontAwesomeClassname: "logos:google-cloud",
 		},
 		{
@@ -90,7 +90,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: "Heroku",
-			fontAwesomeClassname: "icons:heroku",
+			fontAwesomeClassname: "icon:heroku",
 		},
 		
 	],
