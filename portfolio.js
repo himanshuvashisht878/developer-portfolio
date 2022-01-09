@@ -194,6 +194,7 @@ export const projects = [
 		desc: "The Arduino UNO + CNC shield has been the go-to setup for several CNC machines, robotic arms, drawing machines and what not! It's about time we replace the 8-bit microcontroller, with a powerful 32-bit, Wifi + BLE enabled ESP32!",
 		link: "https://curiousmotor.com/2021/12/27/designing-the-onyx-v1-0-motherboard/",
 		github: "https://github.com/CuriousMotor/Onyx-Stepper-Motherboard",
+		linkedin: "https://www.linkedin.com/posts/siddharthkothari14_openhardware-opensource-cnc-activity-6881578102691028992-pMqT"
 	},
 	
 	

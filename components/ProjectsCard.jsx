@@ -18,13 +18,14 @@ const ProjectsCard = ({ data }) => {
 									<Button
 										className="btn-icon"
 										color="github"
-										href={data.link}
+										href={data.github}
 										target="_blank"
 										rel="noopener"
 										aria-label="Github"
 									>
 										<span className="btn-inner--icon">
 											<i className="fa fa-github" />
+											  
 										</span>
 									</Button>
 								) : null}
@@ -37,10 +38,26 @@ const ProjectsCard = ({ data }) => {
 										rel="noopener" aria-label="Twitter"
 									>
 										<span className="btn-inner--icon">
-											<i className="fa fa-arrow-right mr-2" />
+											<i className="fa fa-google mr-2" />
 										</span>
 										<span className="nav-link-inner--text ml-1">
-											Demo
+											Blog
+										</span>
+									</Button>
+								) : null}
+								{data.linkedin ? (
+									<Button
+										className="btn-icon"
+										color="primary"
+										href={data.linkedin}
+										target="_blank"
+										rel="noopener" aria-label="Linkedin"
+									>
+										<span className="btn-inner--icon">
+											<i className="fa fa-linkedin mr-2" />
+										</span>
+										<span className="nav-link-inner--text ml-1">
+											Linkedin
 										</span>
 									</Button>
 								) : null}
