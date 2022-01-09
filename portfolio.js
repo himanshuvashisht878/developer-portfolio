@@ -20,6 +20,7 @@ export const socialLinks = {
 	twitter: "https://twitter.com/Himansh18420367",
 	github: "https://github.com/himanshuvashisht878",
 	linkedin: "https://www.linkedin.com/in/himanshu-vashisht-887071172/",
+	gmail: "hv9238@bennett.edu.in",
 };
 
 export const skillsSection = {
