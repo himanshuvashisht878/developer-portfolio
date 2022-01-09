@@ -154,7 +154,7 @@ export const experience = [
 	{
 		role: "Summer Internship",
 		company: "Bennett University",
-		companylogo: "img/icons/common/bennett_logo.png",
+		companylogo: "/img/icons/common/bennett_logo.png",
 		date: "June 2020 – July 2020",
 		desc: "Smart hand sanitizer that not only detect hand but also detect if there is need to refill sanitizer.",
 		descBullets: [
@@ -165,7 +165,7 @@ export const experience = [
 	{
 		role: "Cybersecurity Internship",
 		company: "Gurugram Police",
-		companylogo: "img/icons/common/police_logo.png",
+		companylogo: "/img/icons/common/police_logo.png",
 		date: "June 2021 – July 2021",
 		desc: "It is a great opportunity for the cybersecurity enthusiasts. It is directed by Rakshit tondon sir.",
 		descBullets: [
@@ -176,7 +176,7 @@ export const experience = [
 	{
 		role: "Cybersecurity Virtual Internship Program",
 		company: "CISCO",
-		companylogo: "img/icons/common/cisco_logo-modified.png",
+		companylogo: "/img/icons/common/cisco_logo-modified.png",
 		date: "May 2021 – July 2021",
 		desc: "Cisco Networking Academy offers the Virtual Internship Program to third-year engineering students to bridge the gap between industry and academia.",
 		descBullets: [
