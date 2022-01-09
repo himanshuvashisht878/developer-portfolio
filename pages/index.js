@@ -21,7 +21,7 @@ export default function Home({ githubProfileData }) {
 				data={{
 					title: "Himanshu Vashisht",
 					description:
-						"A passionate Data Analyst, exploring new technologies.",
+						"I'm Himanshu Vashisht,a passionate Data Analyst, exploring new technologies.",
 					image: "https://avatars.githubusercontent.com/u/65850648?v=4",
 					url: "itshimanshu.tech",
 					keywords: [
