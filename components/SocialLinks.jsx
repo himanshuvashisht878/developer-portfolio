@@ -69,7 +69,7 @@ const SocialLinks = () => {
 				</span>
 			</Button>
 		</div>
-		</div>
+		
 	);
 };
 
