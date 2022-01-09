@@ -1,5 +1,5 @@
 import React from "react";
-
+import emoji from "react-easy-emoji";
 import { Card, Col, Row, Container } from "reactstrap";
 
 import SocialLinks from "../components/SocialLinks";
@@ -34,7 +34,9 @@ const GithubProfileCard = ({ prof }) => {
 						</Col>
 					</Row>
 				</div>
+				
 			</Container>
+			<p> <center>{emoji("Made with ❤️ by Himanshu")}</center></p>
 		</Card>
 	);
 };

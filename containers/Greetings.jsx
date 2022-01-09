@@ -41,7 +41,8 @@ const Greetings = () => {
 										<Button
 										    outline
 											className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
-											
+											target="_blank"
+											rel="noreferrer noopener"
 											href={greetings.resumeLink}
 										>
 											<span className="btn-inner--icon mr-1">
