@@ -24,21 +24,25 @@ const ProjectsCard = ({ data }) => {
 										aria-label="Github"
 									>
 										<span className="btn-inner--icon">
-											<i className="fa fa-github" />
+											<i className="fa fa-github mr-1" />
 											  
+										</span>
+										<span className="nav-link-inner--text ml-1">
+											Repo
 										</span>
 									</Button>
 								) : null}
 								{data.link ? (
 									<Button
 										className="btn-icon"
-										color="success"
+										color="danger"
 										href={data.link}
 										target="_blank"
-										rel="noopener" aria-label="Twitter"
+										rel="noopener" 
+										aria-label="Blog"
 									>
 										<span className="btn-inner--icon">
-											<i className="fa fa-google mr-2" />
+											<i className="fa fa-google mr-1" />
 										</span>
 										<span className="nav-link-inner--text ml-1">
 											Blog
@@ -54,7 +58,7 @@ const ProjectsCard = ({ data }) => {
 										rel="noopener" aria-label="Linkedin"
 									>
 										<span className="btn-inner--icon">
-											<i className="fa fa-linkedin mr-2" />
+											<i className="fa fa-linkedin mr-1" />
 										</span>
 										<span className="nav-link-inner--text ml-1">
 											Linkedin
