@@ -19,7 +19,7 @@ export const socialLinks = {
 	instagram: "https://www.instagram.com/ihimanshuvashisht/",
 	twitter: "https://twitter.com/Himansh18420367",
 	github: "https://github.com/himanshuvashisht878",
-	linkedin: "https://www.linkedin.com/in/himanshu-vashisht-887071172/",
+	linkedin: "https://www.linkedin.com/in/himanshu-vashisht-data-analyst/",
 	gmail: "hv9238@bennett.edu.in",
 };
 
